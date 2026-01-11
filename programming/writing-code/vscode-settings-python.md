@@ -2,7 +2,11 @@
 ```
 {
     "editor.semanticTokenColorCustomizations": {
+        "enabled": true,
         "rules": {
+            "class.declaration": {
+                "fontStyle": "bold"
+            },
             // Function & method parameters
             "parameter": {
                 "fontStyle": "italic",
