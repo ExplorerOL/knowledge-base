@@ -5,12 +5,12 @@
         "enabled": true,
         "rules": {
             "class.declaration": {
-                "fontStyle": "bold"
+                "fontStyle": "underline"
             },
             // Function & method parameters
             "parameter": {
                 "fontStyle": "italic",
-                "foreground": "#eecd61c0"
+                "foreground": "#f1a464"
             },
             // "class": {
             //     "fontStyle": "bold"
